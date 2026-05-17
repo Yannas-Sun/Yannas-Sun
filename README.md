@@ -463,17 +463,6 @@ My long-term goal is to build human-centered robotic systems that are:
 
 ---
 
-## GitHub Overview（GitHub 数据概览）
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yannas-Sun&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannas-Sun&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
----
-
 ## Selected Keywords（关键词）
 
 <div align="center">
