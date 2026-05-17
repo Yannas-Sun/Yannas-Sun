@@ -243,6 +243,10 @@ This project developed a causal online BCI decoder to reconstruct 2-D hand traje
 
 该项目开发了一个因果在线脑机接口解码器，用于从运动皮层神经脉冲信号中重建二维手部轨迹，面向假肢控制和康复控制应用。
 
+<div align="center">
+  <img src="assets/bmi-classifier-report.png" alt="BMI classifier report summary" width="90%" />
+</div>
+
 Highlights:
 
 - Ranked **9/30 in RMSE**
@@ -280,7 +284,6 @@ Methods:
 - 角度约束
 
 [![Repo](https://img.shields.io/badge/GitHub-Neural--Decoder-181717?style=for-the-badge&logo=github)](https://github.com/Yannas-Sun/Hybrid-Neural-Decoder-for-Hand-Trajectory-Estimation-)
-[![Classifier PDF](https://img.shields.io/badge/PDF-Classifier%20Report-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](classifier.pdf)
 
 ---
 
@@ -292,6 +295,10 @@ Methods:
 This project reformulates sEMG-based gesture recognition as a sequential decision-making problem for human-machine interaction.
 
 该项目将基于 sEMG 的手势识别重新建模为一个面向人机交互的序列决策问题。
+
+<div align="center">
+  <img src="assets/semg-dqn-overall-report.png" alt="sEMG DQN gesture prediction report summary" width="80%" />
+</div>
 
 Main work:
 
@@ -314,7 +321,6 @@ Main work:
 - 发现更多通道可以提升学习稳定性，但复杂手势会限制性能表现
 
 [![Repo](https://img.shields.io/badge/GitHub-sEMG--DQN-181717?style=for-the-badge&logo=github)](https://github.com/Yannas-Sun/Gesture-Prediction-Using-DQN-Based-on-sEMG-Signals)
-[![Overall PDF](https://img.shields.io/badge/PDF-Overall%20Report-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](overall.pdf)
 
 ---
 
