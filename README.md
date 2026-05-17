@@ -314,6 +314,7 @@ Main work:
 - 发现更多通道可以提升学习稳定性，但复杂手势会限制性能表现
 
 [![Repo](https://img.shields.io/badge/GitHub-sEMG--DQN-181717?style=for-the-badge&logo=github)](https://github.com/Yannas-Sun/Gesture-Prediction-Using-DQN-Based-on-sEMG-Signals)
+[![Overall PDF](https://img.shields.io/badge/PDF-Overall%20Report-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](overall.pdf)
 
 ---
 
