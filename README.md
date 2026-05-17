@@ -280,6 +280,7 @@ Methods:
 - 角度约束
 
 [![Repo](https://img.shields.io/badge/GitHub-Neural--Decoder-181717?style=for-the-badge&logo=github)](https://github.com/Yannas-Sun/Hybrid-Neural-Decoder-for-Hand-Trajectory-Estimation-)
+[![Classifier PDF](https://img.shields.io/badge/PDF-Classifier%20Report-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](classifier.pdf)
 
 ---
 
