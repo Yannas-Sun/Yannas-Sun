@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Yange Sun 👋  
-# 你好，我是孙砚戈 👋
+# Hi, I'm Yange Sun（你好，我是孙砚戈）👋
 
-### MSc Human & Biological Robotics @ Imperial College London  
-### 帝国理工学院 Human & Biological Robotics 硕士生
+### MSc Human & Biological Robotics @ Imperial College London（帝国理工学院 Human & Biological Robotics 硕士生）
 
 **Human-Robot Interaction · Rehabilitation Robotics · Robot Manipulation · Bio-signal Processing · Tactile Sensing**
 
@@ -13,12 +11,13 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Yannas-Sun&style=flat-square)](https://github.com/Yannas-Sun)
 [![GitHub followers](https://img.shields.io/github/followers/Yannas-Sun?style=flat-square&logo=github)](https://github.com/Yannas-Sun?tab=followers)
 [![Location](https://img.shields.io/badge/London-UK-blue?style=flat-square)](https://github.com/Yannas-Sun)
+[![Email](https://img.shields.io/badge/Email-syg20021028%40ic.ac.uk-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syg20021028@ic.ac.uk)
 
 </div>
 
 ---
 
-## About Me
+## About Me（关于我）
 
 I am an MSc student in **Human and Biological Robotics** at **Imperial College London**, with a BEng in **Electrical and Electronic Engineering** from **University College London**.
 
@@ -34,10 +33,6 @@ My research interests include:
 - **sEMG-based human-machine interfaces**
 - **Reinforcement learning for robotic decision-making**
 - **Human behavior data and intention-driven control**
-
----
-
-## 关于我
 
 我目前就读于 **Imperial College London 人类与生物机器人硕士项目**，本科毕业于 **University College London 电子与电气工程专业**。
 
@@ -56,13 +51,12 @@ My research interests include:
 
 ---
 
-## Research & Engineering Focus  
-## 研究与工程方向
+## Research & Engineering Focus（研究与工程方向）
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤝 Human-Robot Interaction</h3>
+      <h3>🤝 Human-Robot Interaction（人机交互）</h3>
       <p>
       I am interested in how robots can interpret human intention, respond to human behavior, and provide physical or sensory assistance in a natural, adaptive, and reliable way.
       </p>
@@ -71,7 +65,7 @@ My research interests include:
       </p>
     </td>
     <td width="50%">
-      <h3>🦾 Rehabilitation & Assistive Robotics</h3>
+      <h3>🦾 Rehabilitation & Assistive Robotics（康复与辅助机器人）</h3>
       <p>
       I work on assistive systems for posture monitoring, rehabilitation feedback, sensorimotor guidance, and wearable human-centered support.
       </p>
@@ -82,7 +76,7 @@ My research interests include:
   </tr>
   <tr>
     <td width="50%">
-      <h3>🧠 Neural & Bio-signal Interfaces</h3>
+      <h3>🧠 Neural & Bio-signal Interfaces（神经与生物信号接口）</h3>
       <p>
       My projects involve neural spike decoding, sEMG-based gesture recognition, myoelectric control, and intention-driven assistive control.
       </p>
@@ -91,7 +85,7 @@ My research interests include:
       </p>
     </td>
     <td width="50%">
-      <h3>🤖 Robot Manipulation & Learning</h3>
+      <h3>🤖 Robot Manipulation & Learning（机器人操作与学习）</h3>
       <p>
       I am interested in combining robot kinematics, calibration, trajectory planning, reinforcement learning, and biological inspiration for safer and more intelligent robotic behavior.
       </p>
@@ -104,10 +98,9 @@ My research interests include:
 
 ---
 
-## Education  
-## 教育背景
+## Education（教育背景）
 
-### Imperial College London  
+### Imperial College London（帝国理工学院）  
 **MSc in Human and Biological Robotics, Biomedical Engineering**  
 **2025 – 2026 | London, UK**
 
@@ -129,7 +122,7 @@ Relevant coursework:
 
 ---
 
-### University College London  
+### University College London（伦敦大学学院）  
 **BEng in Electrical and Electronic Engineering**  
 **First-Class Honours, Top 20%**  
 **2022 – 2025 | London, UK**
@@ -158,13 +151,11 @@ Relevant coursework:
 
 ---
 
-## Featured Projects  
-## 代表项目
+## Featured Projects（代表项目）
 
 ---
 
-### 🧩 Scalable Electronics for Modular Multi-Layer Robotic E-Skin  
-### 模块化多层机器人电子皮肤的可扩展电子系统
+### 🧩 Scalable Electronics for Modular Multi-Layer Robotic E-Skin（模块化多层机器人电子皮肤的可扩展电子系统）
 
 **Keywords:** Robotic e-skin · tactile sensing · haptic feedback · teleoperation · wearable rehabilitation devices · multi-contact HRI  
 **关键词：** 机器人电子皮肤 · 触觉感知 · 触觉反馈 · 遥操作 · 可穿戴康复设备 · 多接触人机交互
@@ -198,8 +189,7 @@ Main work:
 
 ---
 
-### 🪑 Programmable Haptic-Guided Rehabilitation Cushion — HAPSeat  
-### 可编程触觉引导康复坐垫 HAPSeat
+### 🪑 Programmable Haptic-Guided Rehabilitation Cushion — HAPSeat（可编程触觉引导康复坐垫）
 
 **Keywords:** Haptic feedback · posture monitoring · FSR sensing · rehabilitation feedback · human behavior data · sensorimotor guidance  
 **关键词：** 触觉反馈 · 姿态监测 · FSR 压力传感 · 康复反馈 · 人类行为数据 · 感觉运动引导
@@ -207,6 +197,11 @@ Main work:
 HAPSeat is a programmable assistive cushion designed for posture monitoring and rehabilitation feedback. It converts seated human behavior into structured pressure-distribution data and provides real-time vibrotactile guidance.
 
 HAPSeat 是一个用于姿态监测和康复反馈的可编程辅助坐垫。它可以将坐姿行为转化为结构化压力分布数据，并通过实时振动反馈进行引导。
+
+<div align="center">
+  <img src="assets/hapseat-design.png" alt="HAPSeat sensor and actuator layout design" width="49%" />
+  <img src="assets/hapseat-prototype.png" alt="HAPSeat physical prototype and interface" width="49%" />
+</div>
 
 Main work:
 
@@ -234,8 +229,7 @@ Main work:
 
 ---
 
-### 🧠 Hybrid Neural Decoder for Hand Trajectory Estimation  
-### 面向手部轨迹估计的混合神经解码器
+### 🧠 Hybrid Neural Decoder for Hand Trajectory Estimation（面向手部轨迹估计的混合神经解码器）
 
 **Keywords:** BCI · neural decoding · spike trains · low-latency inference · rehabilitation control · intention-driven control  
 **关键词：** 脑机接口 · 神经解码 · 脉冲序列 · 低延迟推理 · 康复控制 · 意图驱动控制
@@ -284,8 +278,7 @@ Methods:
 
 ---
 
-### ⚡ DQN-Based Gesture Recognition Using sEMG Signals  
-### 基于 sEMG 信号的 DQN 手势识别
+### ⚡ DQN-Based Gesture Recognition Using sEMG Signals（基于 sEMG 信号的 DQN 手势识别）
 
 **Keywords:** Deep reinforcement learning · sEMG · gesture recognition · myoelectric control · HMI  
 **关键词：** 深度强化学习 · 表面肌电信号 · 手势识别 · 肌电控制 · 人机接口
@@ -318,8 +311,7 @@ Main work:
 
 ---
 
-### 🧭 Reinforcement Learning for Safe Navigation in Robotic Systems  
-### 面向机器人安全导航的强化学习方法
+### 🧭 Reinforcement Learning for Safe Navigation in Robotic Systems（面向机器人安全导航的强化学习方法）
 
 **Keywords:** Path planning · MDP · Q-learning · robot navigation · policy optimization · model-free reinforcement learning  
 **关键词：** 路径规划 · 马尔可夫决策过程 · Q-learning · 机器人导航 · 策略优化 · 无模型强化学习
@@ -352,8 +344,7 @@ Main work:
 
 ---
 
-### 🤖 Vision-Guided Robotic Grasping with Kinematics and Calibration  
-### 基于视觉引导、运动学和标定的机器人抓取
+### 🤖 Vision-Guided Robotic Grasping with Kinematics and Calibration（基于视觉引导、运动学和标定的机器人抓取）
 
 **Keywords:** Robot manipulation · camera calibration · inverse kinematics · trajectory planning · Arduino control  
 **关键词：** 机器人操作 · 相机标定 · 逆运动学 · 轨迹规划 · Arduino 控制
@@ -384,11 +375,9 @@ Main work:
 
 ---
 
-## Technical Skills  
-## 技术能力
+## Technical Skills（技术能力）
 
-### Programming  
-### 编程语言
+### Programming（编程语言）
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
@@ -400,8 +389,7 @@ Main work:
 
 ---
 
-### Robotics, AI & Signal Processing  
-### 机器人、人工智能与信号处理
+### Robotics, AI & Signal Processing（机器人、人工智能与信号处理）
 
 ![Human-Robot Interaction](https://img.shields.io/badge/Human--Robot%20Interaction-005F73?style=for-the-badge)
 ![Robot Manipulation](https://img.shields.io/badge/Robot%20Manipulation-0A9396?style=for-the-badge)
@@ -418,8 +406,7 @@ Main work:
 
 ---
 
-### Hardware & Tools  
-### 硬件与工具
+### Hardware & Tools（硬件与工具）
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
@@ -435,8 +422,7 @@ Main work:
 
 ---
 
-## Current Research Direction  
-## 当前研究方向
+## Current Research Direction（当前研究方向）
 
 I am currently exploring how robotic systems can better integrate **human intention, tactile information, biological signals, physical interaction, and adaptive control**.
 
@@ -460,8 +446,7 @@ My long-term goal is to build human-centered robotic systems that are:
 
 ---
 
-## GitHub Overview  
-## GitHub 数据概览
+## GitHub Overview（GitHub 数据概览）
 
 <div align="center">
 
@@ -472,8 +457,7 @@ My long-term goal is to build human-centered robotic systems that are:
 
 ---
 
-## Selected Keywords  
-## 关键词
+## Selected Keywords（关键词）
 
 <div align="center">
 
@@ -489,8 +473,7 @@ My long-term goal is to build human-centered robotic systems that are:
 
 <div align="center">
 
-### Thanks for visiting my profile.  
-### 感谢访问我的主页。
+### Thanks for visiting my profile（感谢访问我的主页）
 
 **Building intelligent robotic systems for human-centered interaction, assistance, and rehabilitation.**
 
