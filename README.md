@@ -358,6 +358,10 @@ This project built a MATLAB-based workflow to localize an object under a fixed o
 
 该项目构建了一个基于 MATLAB 的流程，用固定俯视相机定位目标物体，并引导 3-DOF RRR 机械臂完成抓取。
 
+<div align="center">
+  <img src="assets/vision-guided-robotic-grasping.png" alt="Vision-guided 3-DOF robotic grasping platform" width="80%" />
+</div>
+
 Main work:
 
 - Built a MATLAB-based robotic grasping workflow
