@@ -165,8 +165,8 @@ I am currently conducting my MSc thesis within the [Human Robotics Group](https:
 我目前在 **Imperial College London** 的 [Human Robotics Group](https://www.imperial.ac.uk/human-robotics/) 进行硕士毕业设计。该项目面向模块化多层机器人电子皮肤，开发可扩展电子系统，用于支持机器人操作、遥操作和可穿戴康复设备中的分布式触觉感知与触觉反馈。
 
 <div align="center">
-  <img src="assets/eskin-simulator-workspace.jpeg" alt="Modular e-skin network simulator assembly workspace" width="49%" />
-  <img src="assets/eskin-hardware-readout-demo.jpeg" alt="Hardware readout demo for the e-skin FSR array" width="49%" />
+  <img src="assets/eskin-simulator-workspace.gif" alt="Modular e-skin network simulator assembly workspace" width="49%" />
+  <img src="assets/eskin-hardware-readout-demo.gif" alt="Hardware readout demo for the e-skin FSR array" width="49%" />
 </div>
 
 Main work:
